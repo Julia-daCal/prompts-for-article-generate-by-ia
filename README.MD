@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".downloads/Captura de tela 2024-06-05 201232"
     width="400"  
   />
 </p>
