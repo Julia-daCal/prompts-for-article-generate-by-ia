@@ -12,17 +12,7 @@
 
 -------
 
-<p align="center">
-  <img 
-    src=".downloads/Captura de tela 2024-06-05 201232"
-    width="400"  
-  />
-</p>
-
 # Projeto artigo técnico gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
