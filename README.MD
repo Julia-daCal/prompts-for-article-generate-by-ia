@@ -25,15 +25,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie 10 headlines  para nomes de artigos sobre o assunto: neurociências e IA e as suas relações e importância                                                                                                                                                                                                  |
+| conteúdo | Faça um texto para artigo , com o tema: De Neurônios a Algoritmos: Explorando a Intersecção entre Neurociência e IA, de forma que fique simples e coeso, dividindo em blocos. |
 
 
 Lexica.art：
 
 - No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
-• Angular
+• Neuroscience and IA
 
 
 
@@ -75,4 +75,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Julia da Cal]
